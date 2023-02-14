@@ -1,0 +1,17 @@
+{
+	"name": "PuzzleBouboule",
+	"version": "1.0.0",
+	"description": "Godot Puzzle Bobble Clone",
+	"scripts": {
+		"start": "node src/index.js"
+	},
+	"author": "pleasedskin",
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.18.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/PleasedSkin/Puzzle-Bouboule.git"
+	}
+}
