@@ -1,17 +1,27 @@
 {
-	"name": "PuzzleBouboule",
-	"version": "1.0.0",
-	"description": "Godot Puzzle Bobble Clone",
-	"scripts": {
-		"start": "node src/index.js"
-	},
-	"author": "pleasedskin",
-	"license": "MIT",
-	"dependencies": {
-		"express": "^4.18.2"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/PleasedSkin/Puzzle-Bouboule.git"
-	}
+  "name": "puzzlebouboule",
+  "version": "1.0.0",
+  "description": "Godot Puzzle Bobble Clone",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "pleasedskin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PleasedSkin/Puzzle-Bouboule.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PleasedSkin/Puzzle-Bouboule/issues"
+  },
+  "homepage": "https://github.com/PleasedSkin/Puzzle-Bouboule#readme",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [
+    "puzzlebouboule",
+    "bouboule"
+  ]
 }
